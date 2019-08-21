@@ -17,7 +17,7 @@
 - Databases (SQLAlchemy)
 ## Achievements
 - Digital Break (Цифровой прорыв) Hackathon **Winner**
-  ![Digital Break](digital_break.jpg)  
+  ![Digital Break](digital_break.pdf)  
  During this hackathon we developed the application for delivery organizations and their users to get in touch really fast. 
 - HackMoscow v 2.0 Hackathon **Prizewinner**
  During this hackathon we developed the cross-platform application for sports people's communication
