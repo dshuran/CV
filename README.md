@@ -23,6 +23,6 @@
  During this hackathon we developed the cross-platform application for sports people's communication
 - Working as frontend developer (React, TypeScript, MobX) at 1C company internship department
 # Contacts  
-dmitry.shuran@gmail.com
-dmitryshuran@yandex.ru
-Telegram: @dshuran
+- dmitry.shuran@gmail.com
+- dmitryshuran@yandex.ru
+- Telegram: @dshuran
