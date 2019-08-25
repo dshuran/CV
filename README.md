@@ -13,7 +13,7 @@
 - C++
 - Python
 - Frontend (Html, Bootstrap, Css, Js, TypeScript, React, MobX library)
-- Backend (Node.js , Flask)
+- Backend (Node.JS, Flask)
 - Databases (SQLAlchemy)
 ## Achievements
 - Digital Break (Цифровой прорыв) Hackathon **Winner** (Link - [Digital Break](digital_break.pdf))    
