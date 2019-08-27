@@ -14,7 +14,7 @@
 - Python
 - Frontend (Html, Bootstrap, Css, Js, TypeScript, React, MobX library)
 - Backend (Node.JS, Flask)
-- Databases (SQLAlchemy)
+- Databases (SQLAlchemy, SQLite)
 ## Achievements
 - Digital Break (Цифровой прорыв) Hackathon **Winner** (Link - [Digital Break](digital_break.pdf))    
  During this hackathon we developed the application for delivery organizations and their users to get in touch really fast. 
